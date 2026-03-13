@@ -1,0 +1,16 @@
+name: foobar
+version: '1.0-SNAPSHOT'
+main: io.github.Goliath7700.foobar.Foobar
+api-version: '1.21'
+authors: [ Goli7700 ]
+description: Goli7700's testing mod
+commands:
+  steve:
+    description: You, are Steve
+    usage: /<command>
+  fart:
+    description: Fart on someone
+    usage: /<command> <player name>
+  smite:
+    description: Smite someone
+    usage: /<command> <player name>
